@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xml:lang="en-us">
+  <link rel="self" href="http://0.0.0.0:8000/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
+  <title type="text">Tiros Social System Design</title>
+  <id>http://0.0.0.0:8000/</id>
+  <link href="http://0.0.0.0:8000" />
+  <icon>/favicon.ico</icon>
+  <updated>2021-03-24T21:39:17+01:00</updated>
+  <author>
+    <name>Kenny Johnson</name>
+  </author>
+  <subtitle type="text">Tiros Social System Design</subtitle>
+  <rights>All content written by Kenny Johnson</rights>
+  <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: How to Use This Blog Efficiently</title>
+    <link href='http://0.0.0.0:8000/how-to-use-public-voit' />
+    <published>2017-01-03T12:07:00+01:00</published>
+    <updated>2017-01-03T12:07:00+01:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+
+      </div>
+    </content>
+    <id>http://0.0.0.0:8000/how-to-use-public-voit-from-feed-with-content</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: About</title>
+    <link href='http://0.0.0.0:8000/about' />
+    <published>2014-03-09T14:57:00+01:00</published>
+    <updated>2014-03-09T14:57:00+01:00</updated>
+    <category scheme='http://0.0.0.0:8000/tags/lazyblorg' term='lazyblorg' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+
+      </div>
+    </content>
+    <id>http://0.0.0.0:8000/about-from-feed-with-content</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Mini blog entry</title>
+    <link href='http://0.0.0.0:8000/2013/08/22/testid' />
+    <published>2013-08-22T21:06:00+01:00</published>
+    <updated>2013-08-22T21:06:00+01:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+Just for testing.
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+Just for testing.
+
+</p>
+
+      </div>
+    </content>
+    <id>http://0.0.0.0:8000/2013/08/22/testid-from-feed-with-content</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">This is an example blog entry</title>
+    <link href='http://0.0.0.0:8000/2013/02/14/lazyblorg-example-entry' />
+    <published>2013-02-14T19:02:00+01:00</published>
+    <updated>2013-02-14T19:02:00+01:00</updated>
+    <category scheme='http://0.0.0.0:8000/tags/mytest' term='mytest' />
+    <category scheme='http://0.0.0.0:8000/tags/programming' term='programming' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is an introduction text which describes the blog entry with some catchy information. Readers should be convinced to read this interesting text. <a href="https://github.com/novoid/Memacs">Memacs</a> is an external link to Memacs.
+
+</p>
+</div>
+    </summary>    <content type='xhtml'>
+      <div xmlns='http://www.w3.org/1999/xhtml'>
+	
+<p>
+
+This is an introduction text which describes the blog entry with some catchy information. Readers should be convinced to read this interesting text. <a href="https://github.com/novoid/Memacs">Memacs</a> is an external link to Memacs.
+
+</p>
+
+
+	  <header><h2 class="section-title">Sub-heading foo</h2></header>
+
+
+<p>
+
+This is a dummy text whose only purpose is to generate some content which is then processed by this lovely tool. The resulting web blog might win the Pulitzer Prize some day!
+
+</p>
+
+<ul>
+<li>this list</li>
+<li>gives a great overview</li>
+<li>about something</li>
+</ul>
+
+
+	  <header><h3 class="section-title">Sub-sub heading about something</h3></header>
+
+
+<p>
+
+This is a dummy text whose only purpose is to generate some content which is then processed by this lovely tool. The resulting web blog might win the Pulitzer Prize some day!
+
+</p>
+
+
+	  <div class="example_code">
+	  <pre>Well, in here, I want to write verbatim text.
+Line breaks should be exactly the same.
+
+This is a
+dummy text whose only purpose is to generate
+some content
+which is then processed by this lovely tool.
+The resulting web blog
+might win the Pulitzer Prize some day!
+	  </pre>
+    </div>
+
+
+	  <header><h2 class="section-title">Sub-heading HTML block</h2></header>
+
+
+<p>
+
+Here comes some HTML:
+
+</p>
+
+
+<p>
+
+    my-HTML-example name<br />:
+	  <div class="example_code">&nbsp;&nbsp;&nbsp;&nbsp;foo<br />
+bar<br />
+&nbsp;&nbsp;&lt;foo&nbsp;/&gt;<br />
+&lt;a&nbsp;href="bar"&gt;baz&lt;/a&gt;	  </div>
+
+</p>
+
+
+	  <header><h2 class="section-title">heading with lists</h2></header>
+
+<ul>
+<li>this is a list</li>
+<li>second line</li>
+<li>third line</li>
+<li>last line</li>
+</ul>
+
+      </div>
+    </content>
+    <id>http://0.0.0.0:8000/2013/02/14/lazyblorg-example-entry-from-feed-with-content</id>
+</entry></feed>

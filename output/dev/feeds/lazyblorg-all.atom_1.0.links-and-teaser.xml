@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:thr="http://purl.org/syndication/thread/1.0"
+      xml:lang="en-us">
+  <link rel="self" href="http://0.0.0.0:8000/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml" />
+  <title type="text">Tiros Social System Design</title>
+  <id>http://0.0.0.0:8000/</id>
+  <link href="http://0.0.0.0:8000" />
+  <icon>/favicon.ico</icon>
+  <updated>2021-03-24T21:39:17+01:00</updated>
+  <author>
+    <name>Kenny Johnson</name>
+  </author>
+  <subtitle type="text">Tiros Social System Design</subtitle>
+  <rights>All content written by Kenny Johnson</rights>
+  <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: How to Use This Blog Efficiently</title>
+    <link href='http://0.0.0.0:8000/how-to-use-public-voit' />
+    <published>2017-01-03T12:07:00+01:00</published>
+    <updated>2017-01-03T12:07:00+01:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+</div>
+    </summary>
+    <id>http://0.0.0.0:8000/how-to-use-public-voit-from-feed-with-teaser</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Placeholder: About</title>
+    <link href='http://0.0.0.0:8000/about' />
+    <published>2014-03-09T14:57:00+01:00</published>
+    <updated>2014-03-09T14:57:00+01:00</updated>
+    <category scheme='http://0.0.0.0:8000/tags/lazyblorg' term='lazyblorg' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is a placeholder entry in order to be able to test internal links.
+
+</p>
+</div>
+    </summary>
+    <id>http://0.0.0.0:8000/about-from-feed-with-teaser</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">Mini blog entry</title>
+    <link href='http://0.0.0.0:8000/2013/08/22/testid' />
+    <published>2013-08-22T21:06:00+01:00</published>
+    <updated>2013-08-22T21:06:00+01:00</updated>
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+Just for testing.
+
+</p>
+</div>
+    </summary>
+    <id>http://0.0.0.0:8000/2013/08/22/testid-from-feed-with-teaser</id>
+</entry>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">This is an example blog entry</title>
+    <link href='http://0.0.0.0:8000/2013/02/14/lazyblorg-example-entry' />
+    <published>2013-02-14T19:02:00+01:00</published>
+    <updated>2013-02-14T19:02:00+01:00</updated>
+    <category scheme='http://0.0.0.0:8000/tags/mytest' term='mytest' />
+    <category scheme='http://0.0.0.0:8000/tags/programming' term='programming' />
+    <summary type='xhtml'>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+
+This is an introduction text which describes the blog entry with some catchy information. Readers should be convinced to read this interesting text. <a href="https://github.com/novoid/Memacs">Memacs</a> is an external link to Memacs.
+
+</p>
+</div>
+    </summary>
+    <id>http://0.0.0.0:8000/2013/02/14/lazyblorg-example-entry-from-feed-with-teaser</id>
+</entry></feed>
